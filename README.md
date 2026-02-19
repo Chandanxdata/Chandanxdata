@@ -43,20 +43,7 @@
 ### 🗄 SQL – E-commerce Analytics
 🔗 https://github.com/Chandanxdata/Ecommerce-SQL-Analytics
 
-
 --
-
-## 📊 GitHub Stats
-
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandanxdata&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanxdata&layout=compact&theme=tokyonight)
-
-
-
-
-
----
 
 ## 📬 Connect With Me
 
