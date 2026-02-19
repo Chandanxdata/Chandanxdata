@@ -44,17 +44,16 @@
 🔗 https://github.com/Chandanxdata/Ecommerce-SQL-Analytics
 
 
----
+--
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandanxdata&show_icons=true&theme=tokyonight" />
-</p>
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandanxdata&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanxdata&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanxdata&layout=compact&theme=tokyonight)
+
+
+
 
 
 ---
