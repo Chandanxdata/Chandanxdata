@@ -22,15 +22,27 @@
 
 ---
 
-## 📂 Projects (Uploading Soon)
+## 📂 Projects 
+## 🚀 Featured Projects
 
-🔹 Sales Data Analysis Project  
-🔹 Customer Data Cleaning using Python  
-🔹 SQL Business Case Study  
-🔹 Power BI Dashboard Project  
-🔹 Data Visualization Project  
+### 🐍 Python Capstone – Employee & Project Analysis
+🔗 https://github.com/Chandanxdata/Python-Capstone-Employee-Project-Analysis
 
-(Project links will be added soon)
+---
+
+### 📊 Power BI – ShopNest Sales Analysis
+🔗 https://github.com/Chandanxdata/ShopNest-Sales-Analysis-PowerBI
+
+---
+
+### 📈 Excel – Sales Performance Dashboard
+🔗 https://github.com/Chandanxdata/Excel-Sales-Performance-Dashboard
+
+---
+
+### 🗄 SQL – E-commerce Analytics
+🔗 https://github.com/Chandanxdata/Ecommerce-SQL-Analytics
+
 
 ---
 
