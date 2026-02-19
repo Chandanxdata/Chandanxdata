@@ -8,7 +8,7 @@
 🎯 Aspiring Data Analyst focused on transforming raw data into meaningful business insights.  
 📊 Skilled in data cleaning, visualization, and dashboard development.  
 🚀 Actively building real-world data projects.  
-📌 Open to Data Analyst Internship & Entry-Level Opportunities.
+📌 Open to Data Analyst  & Entry-Level Opportunities.
 
 ---
 
@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanxdata&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
